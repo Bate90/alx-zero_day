@@ -1,4 +1,4 @@
-# 0x02-Vagrant
+# 0x02-spectra
   
 0x002-vagrant Project is a vim related tasks.
 
